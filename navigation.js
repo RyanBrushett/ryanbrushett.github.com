@@ -40,7 +40,7 @@ function displayCode()
 	visib = document.getElementById("GCS");
 	visib.innerHTML="<table width=\"600px\">" +
         	"<tr>" +
-                "<td><h2 class=\" \">code</h2></td>" +
+                "<td><h2 class=\" \">stuff</h2></td>" +
             "</tr>" +
         	"<tr>" +
             	"<td>" +
