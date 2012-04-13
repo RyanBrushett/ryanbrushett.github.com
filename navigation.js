@@ -46,7 +46,10 @@ function displayCode()
             	"<td>" +
                 "Check out my <a href=\"http://www.github.com/ryanbrushett\">" +
 				"GitHub" +
-                "</a> account</td>" +
+                "</a> account<br />" +
+				"And visit my <a href=\"http://www.flickr.com/photos/ryanbrushett\">" +
+				"Flickr" +
+				"</a></td>"+
             "</tr>" +
         "</table>";
 	return;
