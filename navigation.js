@@ -26,7 +26,7 @@ function displayConnect()
                 "Follow me on <a href=\"http://www.twitter.com/ryanbrushett\">" +
 				"twitter" +
 				"</a><br />" +
-				"Connect with me on <a href=\"http://www.http://ca.linkedin.com/in/ryanbrushett\">"+
+				"Connect with me on <a href=\"http://ca.linkedin.com/in/ryanbrushett\">"+
 				"linkedin" +
 				"</a>" +
                 "</td>" +
